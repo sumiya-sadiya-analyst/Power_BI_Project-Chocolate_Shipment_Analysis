@@ -14,3 +14,4 @@ Live Power BI Project 📊
 - <a href= "https://app.powerbi.com/links/kxqEaBd0jx?ctid=676bf922-4cd3-4dd6-a862-cb5021f07531&pbi_source=linkShare">Live Power BI Project</a>
 
 ## Here is the Analysis Video Preview
+https://github.com/user-attachments/assets/4d4e649a-7be1-464c-89c4-99e57d0d698c
