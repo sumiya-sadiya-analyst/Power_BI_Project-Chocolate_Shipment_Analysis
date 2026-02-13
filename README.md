@@ -14,3 +14,4 @@ Live Power BI Project 📊
 - <a href= "https://app.powerbi.com/reportEmbed?reportId=b82fbd91-3510-4adf-8fe9-fdd97803e9b0&autoAuth=true&ctid=676bf922-4cd3-4dd6-a862-cb5021f07531">Live Power BI Project</a>
 
 ## Video Preview
+https://github.com/user-attachments/assets/14406b10-6666-4696-9f48-821a10b84b8e
