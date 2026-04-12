@@ -15,3 +15,7 @@ Live Power BI Project 📊
 
 ## Video Preview
 https://github.com/user-attachments/assets/14406b10-6666-4696-9f48-821a10b84b8e
+
+
+
+<img width="1281" height="729" alt="image" src="https://github.com/user-attachments/assets/be117ce9-2fee-4151-8e9d-629a21a271da" />
