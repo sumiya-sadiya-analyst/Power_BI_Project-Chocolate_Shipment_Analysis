@@ -11,7 +11,7 @@ Key Focus Areas: - Shipment Analysis
 - Exploratory Data Analysis (EDA):Prepared several dashboards pages 
 
 Live Power BI Project 📊
-- <a href= "https://app.fabric.microsoft.com/view?r=eyJrIjoiYjlhMmU2ZTAtOGM2MC00NzcwLWFhODUtZTRhNzVhMTZjOGVhIiwidCI6IjY3NmJmOTIyLTRjZDMtNGRkNi1hODYyLWNiNTAyMWYwNzUzMSIsImMiOjEwfQ%3D%3D">Live Power BI Project</a>
+- <a href= "https://app.fabric.microsoft.com/view?r=eyJrIjoiZmY2NmEwZjgtMjc0ZC00MTdjLWIyMTItM2YzYTc5YzY4Njc5IiwidCI6IjY3NmJmOTIyLTRjZDMtNGRkNi1hODYyLWNiNTAyMWYwNzUzMSIsImMiOjEwfQ%3D%3D">Live Power BI Project</a>
 
 
 
